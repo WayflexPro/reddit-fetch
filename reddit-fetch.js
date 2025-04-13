@@ -11,7 +11,7 @@
 
 // Name: Reddit Fetcher Extended
 // ID: redditfetcherextended
-// Description: Provides a set of blocks to perform AES encryption/decryption, hash generation (SHA256, MD5), encoding/decoding (Base64, hex), and random key generation using the CryptoJS library.
+// Description: A TurboWarp extension that retrieves and parses data from Reddit—including posts, comments, subreddit info, and user statistics—for use in projects.
 // By: Wayflex <https://scratch.mit.edu/users/KEDeX/>
 // License: GPL-3.0
 
